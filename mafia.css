@@ -1,0 +1,15 @@
+.menu_item{
+    border:1px solid rgb(28, 78, 95)  ; 
+    text-decoration: none;
+    background-color: lightblue;
+    color: black;
+    font-size:30px ;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 30px;
+    font-family:cursive ;
+}   
+
+table{
+font-family: cursive;
+}
